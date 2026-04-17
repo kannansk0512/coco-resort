@@ -70,7 +70,7 @@ export default function ContactPage() {
                         type="text"
                         required
                         className="w-full bg-card border border-border rounded px-4 py-3 font-body text-foreground focus:outline-none focus:border-gold transition-colors"
-                        placeholder="John Doe"
+                        placeholder="Enter your name"
                       />
                     </div>
                     <div>
@@ -85,7 +85,7 @@ export default function ContactPage() {
                         type="email"
                         required
                         className="w-full bg-card border border-border rounded px-4 py-3 font-body text-foreground focus:outline-none focus:border-gold transition-colors"
-                        placeholder="john@example.com"
+                        placeholder="Enter your email"
                       />
                     </div>
                   </div>
@@ -102,7 +102,7 @@ export default function ContactPage() {
                         id="phone"
                         type="tel"
                         className="w-full bg-card border border-border rounded px-4 py-3 font-body text-foreground focus:outline-none focus:border-gold transition-colors"
-                        placeholder="+91 9876543210"
+                        placeholder="Enter your number"
                       />
                     </div>
                     <div>
