@@ -8,14 +8,14 @@ import restaurant from "@/assets/restaurant.jpg";
 import natureView from "@/assets/nature-view.jpg";
 import activities from "@/assets/activities.jpg";
 
-import nut1 from "@/assets/nut-1.png";
-import nut2 from "@/assets/nut-2.png";
+import nut1 from "@/assets/nut-1.jpg";
+import nut2 from "@/assets/nut-2.jpg";
 
 import cocoSuite1 from "@/assets/coco-suite-1.png";
 import cocoSuite2 from "@/assets/coco-suite-2.png";
 
-import forestCottage1 from "@/assets/forest-cottage-1.png";
-import forestCottage2 from "@/assets/forest-cottage-2.png";
+import forestCottage1 from "@/assets/forest-cottage-1.jpg";
+import forestCottage2 from "@/assets/forest-cottage-2.jpg";
 
 export const HOTEL = {
   name: "UDS COCO Hotels & Resorts",
